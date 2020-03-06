@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+Sitemap: https://www.staging.brex.com/sitemap.xml
+Host: https://www.staging.brex.com

@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "name": "brex",
+  "description": null,
+  "icons": {
+    "60": "/icons-725b7d05f1d3b6c9c3c98bdba3ad29d7/firefox_app_60x60.png",
+    "128": "/icons-725b7d05f1d3b6c9c3c98bdba3ad29d7/firefox_app_128x128.png",
+    "512": "/icons-725b7d05f1d3b6c9c3c98bdba3ad29d7/firefox_app_512x512.png"
+  },
+  "developer": {
+    "name": null,
+    "url": null
+  }
+}
